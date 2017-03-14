@@ -2,7 +2,10 @@
 
 This is a part of me learning the ropes with all the above technologies, as I am new to the client side programming.
 
+Disclaimer:
 NOT AN EXPERT, JUST PLAYING WITH THESE TECHNOLOGIES.
+Absolutely zero attempts were made to clean the code. 
+The main use of this repo is personal, though some might benefit from it.
 
 You can use this for ideas, but by no means should you use it for production.
 The solution contains several approaches based on https://github.com/vuejs-templates, as seen in several root .html files.
