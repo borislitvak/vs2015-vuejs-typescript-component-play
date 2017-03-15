@@ -19,8 +19,7 @@
     "removeComments": true,
     "suppressImplicitAnyIndexErrors": true,
     "allowSyntheticDefaultImports": true,
-    "sourceMap": true
-    //"traceResolution": true
+    "sourceMap": true 
   },
   "include": [
     "./**/*.ts"

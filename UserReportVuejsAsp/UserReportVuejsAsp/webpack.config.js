@@ -7,7 +7,8 @@ module.exports = {
     ,
     output: {
         path: './dist',
-        filename: 'build.js'
+        filename: 'build.js'//,
+        //pathinfo: true // https://webpack.js.org/configuration/output/#output-pathinfo  Don't User for Production!
     },
     resolve: {
         extensions: ['.ts', '.js'],
@@ -68,7 +69,7 @@ module.exports = {
         //},
       //  pathinfo: true // https://webpack.js.org/configuration/output/#output-pathinfo  Don't User for Production!
     //},
-    devtool: 'eval-source-map'
+    devtool: 'source-map'
     // Boris:
     // devServer: {
     //       port: metadata.port,
