@@ -56,7 +56,19 @@ module.exports = {
     //plugins: [
     //    new ExtractTextPlugin("style.css")
     //],
-    devtool: 'source-map',
+    //output: {
+        //devtoolModuleFilenameTemplate: info => { // https://webpack.js.org/configuration/output/#output-devtoolmodulefilenametemplate
+        //    if (info.resource.match(/\.vue$/)) {
+        //        $filename = info.allLoaders.match(/type=script/)
+        //                  ? info.resourcePath : 'generated';
+        //    } else {
+        //        $filename = info.resourcePath;
+        //    }
+        //    return $filename;
+        //},
+      //  pathinfo: true // https://webpack.js.org/configuration/output/#output-pathinfo  Don't User for Production!
+    //},
+    devtool: 'eval-source-map'
     // Boris:
     // devServer: {
     //       port: metadata.port,
