@@ -1,6 +1,13 @@
 # vs2015-vuejs-typescript-component-play
 
-This both deprecated and does not work. Please go to https://github.com/borislitvak/vue-component-typescript-webpack-vs2015-example
+## This both deprecated and does not work. Please go to https://github.com/borislitvak/vue-component-typescript-webpack-vs2015-example
+
+
+
+
+
+
+-----------------------------------------------------------------------------------
 
 
 
@@ -9,14 +16,7 @@ This both deprecated and does not work. Please go to https://github.com/borislit
 
 
 
-
-
-
-
-
-
-
-
+The only reason this is public repo is financial.
 This is a part of me learning the ropes with all the above technologies, as I am new to the client side programming.
 
 Disclaimer:
